@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e6ddde;
+}
+
+hr {
+  color: #443235;
+}
+
+html {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+}
+
